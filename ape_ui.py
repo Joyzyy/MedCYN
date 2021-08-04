@@ -167,7 +167,7 @@ class UIAtestat(object):
         self.butonMareste.setMaximumSize(QSize(19, 17))
         self.butonMareste.setStyleSheet(u"QPushButton {\n"
 "   border-radius: 4px; \n"
-"   background-image: url(cil-media-stop.png);\n"
+"   background-image: url(medcyn_media-stop.png);\n"
 "   background-position: bottom; \n"
 "   background-color: rgb(60, 60, 60);\n"
 "}\n"
@@ -186,7 +186,7 @@ class UIAtestat(object):
         self.butonMinimizeaza.setMaximumSize(QSize(19, 17))
         self.butonMinimizeaza.setStyleSheet(u"QPushButton {\n"
 "   border-radius: 4px; \n"
-"   background-image: url(cil-window-minimize.png);\n"
+"   background-image: url(medcyn_window-minimize.png);\n"
 "   background-position: center; \n"
 "   background-color: rgb(60, 60, 60);\n"
 "}\n"
@@ -205,7 +205,7 @@ class UIAtestat(object):
         self.butonInchide.setMaximumSize(QSize(19, 17))
         self.butonInchide.setStyleSheet(u"QPushButton {\n"
 "   border-radius: 4px; \n"
-"   background-image: url(cil-x.png);\n"
+"   background-image: url(medcyn_x.png);\n"
 "   background-position: center; \n"
 "   background-color: rgb(60, 60, 60);\n"
 "}\n"
@@ -387,7 +387,7 @@ class UIAtestat(object):
 
         self.statisticiMedici = QPushButton(self.pMedici)
         ibutonStatisticiMedici = QIcon()
-        ibutonStatisticiMedici.addPixmap(QPixmap("P:\\Poriect atestat/cil-chart.png"), QIcon.Normal, QIcon.On)
+        ibutonStatisticiMedici.addPixmap(QPixmap("medcyn_chart.png"), QIcon.Normal, QIcon.On)
         self.statisticiMedici.setIcon(ibutonStatisticiMedici)
         self.statisticiMedici.setIconSize(QSize(24, 24))
 
@@ -395,7 +395,7 @@ class UIAtestat(object):
 
         self.butonSearchMedici = QPushButton(self.pMedici)
         ibutonSearchMedici = QIcon()
-        ibutonSearchMedici.addPixmap(QPixmap("C:/Users/Playboi Carti/Desktop/Licenta/Aplicatie/img/cauta.png"), QIcon.Normal, QIcon.On)
+        ibutonSearchMedici.addPixmap(QPixmap("medcyn_cauta.png"), QIcon.Normal, QIcon.On)
         self.butonSearchMedici.setIcon(ibutonSearchMedici)
         self.butonSearchMedici.setIconSize(QSize(24, 24))
 
@@ -457,7 +457,7 @@ class UIAtestat(object):
 
         self.statisticiAsistente = QPushButton(self.pAsistente)
         ibutonStatisticiAsistente = QIcon()
-        ibutonStatisticiAsistente.addPixmap(QPixmap("P:\\Poriect atestat/cil-chart.png"), QIcon.Normal, QIcon.On)
+        ibutonStatisticiAsistente.addPixmap(QPixmap("medcyn_chart.png"), QIcon.Normal, QIcon.On)
         self.statisticiAsistente.setIcon(ibutonStatisticiAsistente)
         self.statisticiAsistente.setIconSize(QSize(24, 24))        
 
@@ -465,7 +465,7 @@ class UIAtestat(object):
 
         self.butonSearchAsistente = QPushButton(self.pAsistente)
         ibutonSearchAsistente = QIcon()
-        ibutonSearchAsistente.addPixmap(QPixmap("C:/Users/Playboi Carti/Desktop/Licenta/Aplicatie/img/cauta.png"), QIcon.Normal, QIcon.On)
+        ibutonSearchAsistente.addPixmap(QPixmap("medcyn_cauta.png"), QIcon.Normal, QIcon.On)
         self.butonSearchAsistente.setIcon(ibutonSearchAsistente)
         self.butonSearchAsistente.setIconSize(QSize(24, 24))
 
@@ -588,7 +588,7 @@ class UIAtestat(object):
 
         self.statisticiMedicamente = QPushButton(self.pMedicamente)
         ibutonStatisticiMedicamente = QIcon()
-        ibutonStatisticiMedicamente.addPixmap(QPixmap("P:\\Poriect atestat/cil-chart.png"), QIcon.Normal, QIcon.On)
+        ibutonStatisticiMedicamente.addPixmap(QPixmap("medcyn_chart.png"), QIcon.Normal, QIcon.On)
         self.statisticiMedicamente.setIcon(ibutonStatisticiMedicamente)
         self.statisticiMedicamente.setIconSize(QSize(24, 24))        
 
@@ -596,7 +596,7 @@ class UIAtestat(object):
 
         self.butonSearchMedicamente = QPushButton(self.pMedicamente)
         ibutonSearchMedicamente = QIcon()
-        ibutonSearchMedicamente.addPixmap(QPixmap("C:/Users/Playboi Carti/Desktop/Licenta/Aplicatie/img/cauta.png"), QIcon.Normal, QIcon.On)
+        ibutonSearchMedicamente.addPixmap(QPixmap("medcyn_cauta.png"), QIcon.Normal, QIcon.On)
         self.butonSearchMedicamente.setIcon(ibutonSearchMedicamente)
         self.butonSearchMedicamente.setIconSize(QSize(24, 24))
 
@@ -661,7 +661,7 @@ class UIAtestat(object):
         self.meniu = QHBoxLayout(self.frameButoane)
         self.bAcasa = QPushButton(self.frameButoane)
         ibutonAcasa = QIcon()
-        ibutonAcasa.addPixmap(QPixmap("cil-home.png"), QIcon.Normal, QIcon.Off)
+        ibutonAcasa.addPixmap(QPixmap("medcyn_home.png"), QIcon.Normal, QIcon.Off)
         self.bAcasa.setIcon(ibutonAcasa)
         self.bAcasa.setIconSize(QSize(24, 24))
         self.bAcasa.setCheckable(False)
@@ -672,7 +672,7 @@ class UIAtestat(object):
 
         self.bMedici = QPushButton(self.frameButoane)
         ibutonMedici = QIcon()
-        ibutonMedici.addPixmap(QPixmap("cil-user.png"), QIcon.Normal, QIcon.Off)
+        ibutonMedici.addPixmap(QPixmap("medcyn_user.png"), QIcon.Normal, QIcon.Off)
         self.bMedici.setIcon(ibutonMedici)
         self.bMedici.setIconSize(QSize(24, 24))
         self.bMedici.setCheckable(False)
@@ -683,7 +683,7 @@ class UIAtestat(object):
 
         self.bAsistente = QPushButton(self.frameButoane)
         ibutonAsistente = QIcon()
-        ibutonAsistente.addPixmap(QPixmap("cil-user-female.png"), QIcon.Normal, QIcon.Off)
+        ibutonAsistente.addPixmap(QPixmap("medcyn_user-female.png"), QIcon.Normal, QIcon.Off)
         self.bAsistente.setIcon(ibutonAsistente)
         self.bAsistente.setIconSize(QSize(24, 24))
         self.bAsistente.setCheckable(False)
@@ -694,7 +694,7 @@ class UIAtestat(object):
 
         self.bPacienti = QPushButton(self.frameButoane)
         ibutonPacienti = QIcon()
-        ibutonPacienti.addPixmap(QPixmap("cil-newspaper.png"), QIcon.Normal, QIcon.Off)
+        ibutonPacienti.addPixmap(QPixmap("medcyn_newspaper.png"), QIcon.Normal, QIcon.Off)
         self.bPacienti.setIcon(ibutonPacienti)
         self.bPacienti.setIconSize(QSize(24, 24))
         self.bPacienti.setCheckable(False)
@@ -705,7 +705,7 @@ class UIAtestat(object):
 
         self.bMedicamente = QPushButton(self.frameButoane)
         ibutonMedicamente = QIcon()
-        ibutonMedicamente.addPixmap(QPixmap("cil-plus.png"), QIcon.Normal, QIcon.Off)
+        ibutonMedicamente.addPixmap(QPixmap("medcyn_plus.png"), QIcon.Normal, QIcon.Off)
         self.bMedicamente.setIcon(ibutonMedicamente)
         self.bMedicamente.setIconSize(QSize(24, 24))
         self.bMedicamente.setCheckable(False)
