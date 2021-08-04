@@ -1,4 +1,7 @@
 # RO
+
+---
+
 ## MedCYN
 Aplicație python realizată pentru atestatul de la informatică clasa a XII-a
 
