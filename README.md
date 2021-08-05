@@ -15,9 +15,7 @@ MedCYN a fost conceput ca un sistem expert ce monitorizează activitatea dintr-u
 * Interfață user-friendly și interactivă;
 
 ## Poze
-
-***
-
-ENG
-
----
+[Poza1](https://i.ibb.co/fNQ0Lns/Screenshot-1.png)
+[Poza2](https://i.ibb.co/YW8xC0g/Screenshot-2.png)
+[Poza3](https://i.ibb.co/X2C3KRH/Screenshot-3.png)
+[Poza4](https://i.ibb.co/smLt2Rz/Screenshot-4.png)
