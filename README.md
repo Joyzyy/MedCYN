@@ -15,19 +15,19 @@ MedCYN a fost conceput ca un sistem expert ce monitorizează activitatea dintr-u
 * Interfață user-friendly și interactivă;
 
 ## Poze
-> Prima pagina
+**Prima pagina**
 _________________
 
 ![Poza1](https://i.ibb.co/fNQ0Lns/Screenshot-1.png)
 
-> Pagina cu tabelul cu medici din baza de date
+**Pagina cu tabelul cu medici din baza de date**
 _________________
 ![Poza2](https://i.ibb.co/YW8xC0g/Screenshot-2.png)
 
-> Fereastra cu determinarea numarului aditional de medici si asistente raportat la numarul de pacienti pe o sectiune specifica
+**Fereastra cu determinarea numarului aditional de medici si asistente raportat la numarul de pacienti pe o sectiune specifica**
 _________________
 ![Poza3](https://i.ibb.co/X2C3KRH/Screenshot-3.png)
 
-> Fereastra search - medic/pacient
+**Fereastra search - medic/pacient**
 _________________
 ![Poza4](https://i.ibb.co/smLt2Rz/Screenshot-4.png)
