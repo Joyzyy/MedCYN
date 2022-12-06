@@ -31,3 +31,6 @@ _________________
 **Fereastra search - medic/pacient**
 _________________
 ![Poza4](https://i.ibb.co/smLt2Rz/Screenshot-4.png)
+
+# Credits
+@zeekliviu
